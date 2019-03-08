@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SClb_Arduino_DMXEthernet", "SClb_Arduino_DMXEthernet.vcxitems", "{3D1F9D2A-414A-47C7-99F9-37188D02D90C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C09327-90EB-4D35-9EFD-256039E6B2FA}
+	EndGlobalSection
+EndGlobal
